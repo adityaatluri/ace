@@ -5,7 +5,7 @@ permalink: /posts/:year/:month/:title
 relative_permalinks: true
 
 title: Ace
-url: http://aliou.github.io/ace
+url: http://adityaatluri.github.io/ace
 # baseurl: /
 description: Ace, a Jekyll theme.
 
